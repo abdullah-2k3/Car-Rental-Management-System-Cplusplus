@@ -1,0 +1,7 @@
+1000, Abdullah, password, Azam Garden LHR, 03214139736,
+1001, Ali, whatever, Thokar LHR, 03331234563,
+1002, Bilal, hashtable, Mughal Pura, 03453214320,
+1003, Ahmed, encrypted, Canal View, 03000112233,
+1004, Salman, virus123, Dream Gardens, 03234313213,
+1005, Annas, establishment, Garhi Shahu, 03094001234,
+1006, Saad, flyingmonkey, Faisalabad, 03001111111,
